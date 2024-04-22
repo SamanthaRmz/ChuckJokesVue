@@ -1,24 +1,3 @@
-# actividad12
+# Actividad12 - Diseño de aplicaciones web 
 
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[![Imagen-1.png](https://i.postimg.cc/rw4MrY54/Imagen-1.png)](https://postimg.cc/WdsBR8Wp)
